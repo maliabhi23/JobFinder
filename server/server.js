@@ -12,6 +12,7 @@ dotenv.config();
 
 const app = express();
 
+//hello dear shinde here mali pls what you say them 
 const config = {
   authRequired: false,
   auth0Logout: true,
