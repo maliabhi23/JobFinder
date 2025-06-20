@@ -1,0 +1,7 @@
+SECRET=dbdghhdbhdbghyjfgjr@vsf
+BASE_URL=http://localhost:2000
+CLIENT_ID=g4ZDZWrgSKwxzvSszcI4obDkUGLSFjWL
+ISSUER_BASE_URL=https://dev-e1y8yvzfzy5hw6kb.us.auth0.com
+CLIENT_URL=http://localhost:3001
+PORT=2000
+MONGO_URI=mongodb+srv://user_1:QOSbPMLWE7IWyrI1@cluster0.ishgbx9.mongodb.net/JobFindr?retryWrites=true&w=majority&appName=Cluster0
